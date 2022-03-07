@@ -113,7 +113,7 @@
                                 "scriptArguments": "[parameters('creationScript.cmdArguments')]"
                             }
                         }
-                    },
+                    }, 
                     "schedules": "[parameters('schedules')]"
                 }
             }
